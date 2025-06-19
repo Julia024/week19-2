@@ -1,0 +1,21 @@
+.root {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.myForm {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.form-element {
+    width: 150px;
+    padding: 10px;
+    text-align: center;
+
+}
+.btn {
+    background-color: rgb(185, 58, 90);
+}
+.message {
+}
